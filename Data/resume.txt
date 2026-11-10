@@ -1,24 +1,252 @@
-Meeaad Bharoochi
+# Meeaad Bharoochi
 
-Data Operations Associate
+**Data Operations Associate**  
+Email: meeaadbharoochi@gmail.com  
+Phone: +27 81 336 0372  
+Location: 20 Salerno Way, Strandfontein Village, 7798, Cape Town  
+LinkedIn: linkedin.com/in/meeaadbharoochi
 
-meeaadbharoochi@gmail.com
+---
 
-SUMMARY
+# Professional Summary
 
-I am a Data Operations Specialist with a background in Information Systems specializing in data cleaning, SQL database workflows, and automated ETL pipelines...
+Data Operations Specialist with a Bachelor of Commerce in Information Systems and experience in data processing, SQL-based workflows, data validation, quality assurance, and automated ETL operations. Skilled in transforming complex datasets into clean, reliable, and defensible data structures through process automation, database optimization, and analytics-driven problem solving.
 
-EXPERIENCE
+Experienced across market research and eDiscovery environments, utilizing SQL Server Management Studio (SSMS), PostgreSQL, Snowflake, Power BI, Python, and PowerShell to improve operational efficiency, data integrity, and reporting accuracy.
 
-Data Operations Associate
-Consilio LLC
+Currently expanding expertise in Artificial Intelligence, Agentic AI systems, prompt engineering, and workflow automation, with a focus on building practical AI solutions that improve data operations, documentation management, process efficiency, and knowledge-sharing capabilities.
 
-• Pipeline Management: Orchestrate end-to-end ETL pipelines...
-• Data Optimization Querying...
-• Quality Assurance...
+---
 
-Data Processing Executive
-Opinium
+# Professional Experience
 
-• Utilised data cleaning and validation workflows...
-...
+## Data Operations Associate
+**Consilio LLC** | Cape Town  
+**March 2026 – Present**
+
+### Key Responsibilities
+
+- Orchestrate end-to-end ETL pipelines across multiple enterprise systems to ensure data integrity, clean transformations, and reliable data availability.
+- Utilize SQL Server Management Studio (SSMS) for advanced database querying, structural validation, and workflow optimization.
+- Perform quality assurance checks on data ingestion sources while ensuring compliance with governance requirements and chain-of-custody standards.
+- Support technical data operations through troubleshooting, validation, auditing, and issue resolution.
+- Contribute to processing workflows supporting large-scale eDiscovery projects.
+
+### Notable Contributions
+
+- Applied AI-assisted workflows to accelerate SQL development, troubleshooting, research, and process analysis.
+- Created prompt libraries and reusable AI workflows supporting data validation and operational efficiency.
+- Leveraged AI tools to assist with technical investigations, reporting, and operational documentation.
+
+---
+
+## Data Processing Executive
+**Opinium (Insights with Impact)** | Cape Town  
+**September 2025 – February 2026**
+
+### Key Responsibilities
+
+- Cleaned, transformed, and validated large-scale market research datasets.
+- Structured data for reporting, analysis, and client deliverables.
+- Collaborated with Researchers and Project Managers to troubleshoot issues and implement software fixes.
+- Participated in Agile ceremonies including sprint planning, retrospectives, daily stand-ups, and backlog refinement.
+- Utilized JavaScript, HTML, and CSS to support data processing workflows and custom business requirements.
+
+---
+
+## Data Capturer
+**Silo** | Cape Town  
+**February 2023 – August 2024**
+
+### Key Responsibilities
+
+- Maintained high standards of data accuracy and consistency.
+- Automated data capture processes using scripting techniques, improving production efficiency by approximately 10%.
+- Developed Power BI dashboards to monitor quality issues and provide operational insights.
+- Supported reporting initiatives through structured data collection and analysis.
+
+---
+
+## Content Creator / Copywriter
+**Durpro** | Cape Town  
+**September 2021 – January 2023**
+
+### Key Responsibilities
+
+- Utilized Trello for project management and collaboration.
+- Produced SEO-focused website content and product descriptions.
+- Assisted with XML integration and content management activities to improve website visibility and user experience.
+
+---
+
+# Education
+
+## Bachelor of Commerce (Information Systems)
+**University of the Western Cape**  
+2016 – 2022
+
+## National Senior Certificate
+**Belgravia High School**  
+2011 – 2015
+
+---
+
+# Certifications
+
+- Microsoft Power Query
+- HTML, CSS & React Certification Course for Beginners
+
+---
+
+# Technical Skills
+
+## Data Operations & Engineering
+
+- ETL Pipelines
+- Data Ingestion
+- Data Processing
+- Data Transformation
+- Data Validation Frameworks
+- Process Automation
+- Quality Assurance
+- Data Governance
+
+## Database Technologies
+
+- SQL Server Management Studio (SSMS)
+- PostgreSQL
+- Snowflake
+- SQL Query Optimization
+- Schema Optimization
+
+## Analytics & Reporting
+
+- Power BI
+- Tableau
+- Dashboard Development
+- Cross-Tabulation
+- Data Quality Reporting
+- Business Reporting
+
+## Programming & Scripting
+
+- SQL
+- Python
+- PowerShell
+- JavaScript
+- HTML
+- CSS
+
+## Artificial Intelligence & Automation
+
+- Prompt Engineering
+- Generative AI Applications
+- AI-Assisted Data Processing
+- Workflow Automation
+- Agentic AI Fundamentals
+- LLM-Powered Productivity Solutions
+- AI-Augmented Analytics
+- Gemini API Learning & Integration
+
+## Professional Practices
+
+- Agile Methodologies
+- Stakeholder Communication
+- Root Cause Analysis
+- Process Improvement
+- Technical Troubleshooting
+
+---
+
+# Featured Project
+
+## AI-Powered eDiscovery & Data Processing Assistant
+
+Designed and refined AI-assisted workflows to streamline eDiscovery and data processing activities.
+
+### Key Outcomes
+
+- Accelerated SQL development and troubleshooting activities through AI-assisted workflows.
+- Created reusable prompts and workflow processes for:
+  - Document numbering validation
+  - Manifest verification
+  - Filename-based metadata extraction
+  - Archive and password troubleshooting.
+- Generated ticket summaries, stakeholder communications, and operational notes from technical work logs.
+- Applied AI-assisted solutions across Power BI, Power Automate, SQL, and JavaScript workflows.
+- Reduced time spent on repetitive technical tasks while maintaining human review and quality assurance.
+
+---
+
+# Professional Development
+
+## AI Engineering & Agentic AI Development (Ongoing)
+
+Actively developing practical expertise in:
+
+- Large Language Model (LLM) application development
+- Agentic AI systems and workflow design
+- Gemini API integration
+- AI-powered process automation
+- Resume optimization systems
+- AI-enhanced knowledge management
+- AI-assisted operational reporting
+- Git, GitHub, and AI project development workflows
+
+---
+
+# Current Development Project
+
+## Resume Optimization Agent (In Development)
+
+Building a Gemini-powered application that analyzes resumes against job descriptions while ensuring all recommendations remain truthful and supported by the original resume.
+
+### Planned Features
+
+- ATS keyword analysis
+- Skills gap assessment
+- Resume optimization recommendations
+- Tailored cover letter generation
+- Resume validation to prevent unsupported AI-generated content
+- Job-to-resume alignment scoring
+
+### Technologies
+
+Python, Gemini API, Git, GitHub, Prompt Engineering
+
+---
+
+# Planned Project
+
+## AI-Powered SOP Documentation Assistant (Planned)
+
+Designing an AI-assisted solution for creating and maintaining Standard Operating Procedures (SOPs) from operational processes and technical workflows.
+
+### Planned Capabilities
+
+- SOP generation from process descriptions
+- Process-step extraction and organization
+- Knowledge-base creation and maintenance
+- Documentation standardization
+- AI-assisted document review and refinement
+- Workflow-to-document automation
+- Organizational knowledge retention
+
+### Planned Technologies
+
+Python, Gemini API, Agentic AI Workflows, Knowledge Management, Document Processing, Workflow Automation
+
+---
+
+# Core Strengths
+
+- Data Operations
+- ETL & Data Engineering
+- SQL Query Development
+- Data Quality & Validation
+- Business Intelligence & Reporting
+- Process Automation
+- AI-Assisted Productivity
+- Agentic AI Learning & Development
+- Technical Troubleshooting
+- Knowledge Management & Documentation

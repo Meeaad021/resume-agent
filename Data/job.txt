@@ -1,15 +1,67 @@
-Data Analyst
+Role Overview
+
+The AI Engineer is a hands-on practitioner who turns AI opportunities into real business value. This role identifies opportunities to improve automation, decision-making, and operational efficiency using AI tools and technologies, then delivers practical solutions that create measurable impact. Success in this role comes from delivering AI capabilities iteratively and incrementally, driving continuous improvement while staying aligned to business priorities and operational needs.
+
+This role combines business analysis, AI prototyping, and full-cycle AI/ML deployment skills, enabling business teams to experience tangible value from AI without lengthy development cycles. A critical differentiator for this role is proven capability in building production-grade agentic systems: designing multi-agent architectures, selecting appropriate orchestration patterns, and delivering hybrid AI solutions that blend agentic reasoning with deterministic code.
+
+Your mission: Make AI real for our Centers of Excellence-fast, safe, and scalable.
 
 Responsibilities
 
-• Create dashboards using Power BI
-• Perform SQL data analysis
-• Work with stakeholders
-• Build reports
+Business Discovery & Solution Design
+
+ Partner with business stakeholders to identify AI opportunities that improve efficiency, automation, decision-making, or knowledge access.
+ Translate business requirements into clearly defined AI use cases with measurable outcomes.
+ Assess technical feasibility and align solutions with enterprise data and AI strategy.
+ Produce high-level solution designs, architecture diagrams, and technical documentation.
+
+AI Solution Prototyping & Implementation
+
+ Design end-to-end AI workflows, from data inputs and prompt design to integration points with existing business systems.
+ Build and deploy production-grade AI solutions using Azure AI Foundry, Azure OpenAI, Microsoft Copilot Studio, or equivalent Microsoft frameworks.
+ Design, configure, and deploy conversational agents and copilots that integrate into business workflows, including agents deployed via Microsoft Teams, web apps, and other channels.
+ Architect and implement agentic and multi-agent systems using appropriate agent orchestration patterns based on task complexity and requirements.
+ Develop and deploy RAG (retrieval-augmented generation) solutions and prompt-engineered AI workflows.
+ Integrate AI solutions with existing data sources, REST APIs, and business systems.
+ Apply LLM cost optimization strategies throughout solution design.
+ Implement monitoring and continuous improvement through prompt tuning, retraining, and user feedback loops.
+
+Evaluation, Governance & Adoption
+
+Ensure solutions comply with responsible AI, security, governance, and auditability standards. 
+Support AI adoption through documentation, knowledge sharing, and business enablement activities.
+Promote reusable AI patterns, prompt libraries, and implementation standards across the organization. 
 
 Requirements
 
-• SQL
-• Power BI
-• Python
-• Data Quality
+Education & Experience
+
+ Degree in Data Science, Computer Science, Engineering, or a related discipline (Master’s or PhD a plus).
+ 3+ years of hands-on experience building production AI solutions, preferably using Microsoft AI technologies (Azure AI technologies, Microsoft Copilot Studio).
+ Proven experience building production-grade, end-to-end agentic or multi-agent systems.
+ Demonstrated experience delivering applied AI solutions that created measurable business impact.
+ Experience in AI product development, business analysis, or technical consulting.
+ Experience in manufacturing, supply chain, or service operations is a plus.
+
+Technical Skills
+
+ Proficiency with generative AI tools and frameworks including Azure OpenAI, Azure AI Foundry, Microsoft Copilot Studio, and Power Automate preferred.
+ Experience with agentic frameworks such as Microsoft Agent Framework (preferred), LangChain, LangGraph, or equivalent platforms.
+ Understanding of LLM cost structures and practical optimization strategies including prompt compression, caching, batching, and model selection trade-offs.
+ Proficiency in Python, SQL, APIs, and standard machine learning libraries.
+ Experience fine-tuning large language models for domain-specific use cases.
+
+Business & Communication Skills
+
+ Strong analytical and problem-solving mindset.
+ Ability to engage with business users, run workshops, and elicit requirements.
+ Ability to translate technical outcomes into business value language.
+ Experience preparing solution proposals and ROI assessments.
+ Skilled at producing architecture diagrams and documentation that serve both technical and non-technical audiences.
+
+Mindset
+
+ Experiments with emerging AI tools but always grounds ideas in business value.
+ Thinks like an engineer but communicates like a consultant.
+ Exercises strong judgment in selecting the right tool, architecture, or pattern for each problem, avoiding over-engineering and under-delivery in equal measure.
+ Sees AI not as a buzzword, but as a systematic enabler of smarter work.
