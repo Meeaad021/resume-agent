@@ -1,0 +1,15 @@
+Data Analyst
+
+Responsibilities
+
+• Create dashboards using Power BI
+• Perform SQL data analysis
+• Work with stakeholders
+• Build reports
+
+Requirements
+
+• SQL
+• Power BI
+• Python
+• Data Quality
